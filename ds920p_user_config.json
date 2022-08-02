@@ -1,13 +1,10 @@
 {
     "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
-        "sn": "2040SBRDDF1TV",
-        "mac1": "0011323E3871",
-	"mac2": "0011323E3872",
-	"mac3": "0011323E3873",
-	"mac4": "0011323E3874",
-	"netif_num": 7
+        "pid": "0x1000",
+        "vid": "0x090C",
+        "sn": "20C0SBRBAXMNT",
+        "mac1": "001132E53517",
+	"netif_num": 1
     },
     "synoinfo": {
 	"internalportcfg": "0xffff",
